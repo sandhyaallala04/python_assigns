@@ -1,0 +1,5 @@
+a=input("enter any sentence:")
+print(a.isupper())
+print(a.islower())
+print(a.isdigit())
+print(a.isalnum())

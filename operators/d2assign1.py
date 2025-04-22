@@ -1,0 +1,5 @@
+a=input("90+ in science:")
+b=input("90+ in social:")
+c=input("90+ in maths:")
+all_A_grade=(a and b and c)
+print("A grade in all subjects:", all_A_grade)
